@@ -1,0 +1,3 @@
+# Require reviews from core team for src changes
+/docs/ @your-org/design
+/src/ @your-org/backend-team @your-org/mobile-team
