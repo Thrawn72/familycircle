@@ -1,0 +1,7 @@
+# from your local project folder
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+# create repo on GitHub (using gh)
+gh repo create familycircle-app/familycircle --private --source=. --remote=origin --push
